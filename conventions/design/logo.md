@@ -11,7 +11,7 @@
 	<tbody>
 		<tr>
 			<td><i>Published</i></td>
-			<td><i>-</i></td>
+			<td><i>Until Nov 17, 2025</i></td>
 			<td><i><a href="https://www.github.com/Xibitol">Xibitol</a></i></td>
 			<td><i>Feb 25, 2024</i></td>
 		<tr>
