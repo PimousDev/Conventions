@@ -11,7 +11,7 @@ This repository list all published and drafted conventions. They should follow
 the template defined (See
 [Contributing](#contributing)).
 
-> Version: **-**
+> Version: **v1.0.0**
 
 ## Table of contents
 _Soon..._
