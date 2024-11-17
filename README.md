@@ -14,7 +14,8 @@ the template defined (See
 > Version: **v1.0.0**
 
 ## Table of contents
-_Soon..._
+### Design
+- [Logo](conventions/design/logo.md)
 
 ## Contributing
 First of all, new pages should always be created on a new branch named
